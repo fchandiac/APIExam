@@ -1,0 +1,17 @@
+{
+  "name": "eva01",
+  "version": "1.0.0",
+  "description": "Evaluación 01 Multiplaforma Nativa Iplacex",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Felipe Chandía Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
